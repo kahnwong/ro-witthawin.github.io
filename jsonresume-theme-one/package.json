@@ -1,0 +1,27 @@
+{
+  "name": "jsonresume-theme-one",
+  "version": "0.0.1",
+  "description": "Updated version of the onepage theme.",
+  "author": "Phillip Chaffee",
+  "repository": "https://github.com/PhillipChaffee/jsonresume-theme-one",
+  "bugs": "https://github.com/PhillipChaffee/jsonresume-theme-one/issues",
+  "license": "MIT",
+  "main": "index.js",
+  "prettier": "@vercel/style-guide/prettier",
+  "scripts": {
+    "lint": "npx eslint .",
+    "fix": "npx eslint . --fix"
+  },
+  "dependencies": {
+    "css": "2.2.x",
+    "handlebars": "^4.0.0"
+  },
+  "devDependencies": {
+    "@html-eslint/eslint-plugin": "^0.13.2",
+    "@html-eslint/parser": "^0.13.2",
+    "@vercel/style-guide": "^3.0.0",
+    "eslint": "^8.20.0",
+    "eslint-plugin-html": "^7.1.0",
+    "prettier": "^2.7.1"
+  }
+}

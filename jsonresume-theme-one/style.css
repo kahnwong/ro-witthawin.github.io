@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:wght@400;500;700&display=swap');
+
+body {
+    font: 1rem "Google Sans Flex", sans-serif;
+    line-height: 1.4;
+}
+
+em {
+    color: #999;
+}
+
+p {
+    line-height: 1.4;
+}
+
+ul {
+    margin-bottom: 0;
+}
+
+li {
+    margin-bottom: 2px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#resume {
+    margin: 2rem auto;
+    max-width: 1000px;
+    background: #fff;
+}
+
+.coursesList {
+    width: 28%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.largeFont {
+    font-size: 2rem;
+}
+
+.mediumFont {
+    font-size: 1.35rem;
+}
+
+.sectionBlock {
+    display: flex;
+    width: 100%;
+}
+
+.sectionName {
+    width: 18%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.sectionContent {
+    width: 80%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.sectionContent ul {
+    padding-left: 20px;
+    margin-top: 6px;
+    list-style-type: circle;
+}
+
+.sectionContent .title {
+    font-weight: bold;
+}
+
+.sectionContent .name {
+    font-style: italic;
+}
+
+.sectionContent .date {
+    float: right;
+}
+
+.sectionLine {
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #CFCFCF;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.divider {
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.summary {
+    margin-top: 6px;
+}
+
+.skillBlock {
+    margin-bottom: 4px;
+}
+
+.jobBlock {
+    page-break-inside: avoid;
+}
+
+/* Responsive styles */
+
+@media (max-width: 768px) {
+    #resume {
+        margin: 1rem;
+        padding: 1rem;
+    }
+
+    .sectionBlock {
+        flex-direction: column;
+    }
+
+    .sectionName {
+        width: 100%;
+        margin-bottom: 0.5rem;
+        font-weight: bold;
+    }
+
+    .sectionContent {
+        width: 100%;
+    }
+
+    .sectionContent .date {
+        float: none;
+        display: block;
+        font-style: italic;
+    }
+
+    .coursesList {
+        width: 100%;
+        display: block;
+        margin-bottom: 1rem;
+    }
+
+    .largeFont {
+        font-size: 1.5rem;
+    }
+
+    .mediumFont {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 0.9rem;
+    }
+
+    #resume {
+        margin: 0.5rem;
+        padding: 0.5rem;
+    }
+
+    .largeFont {
+        font-size: 1.3rem;
+    }
+
+    .mediumFont {
+        font-size: 1.1rem;
+    }
+}
+
+/* PDF styles */
+
+@media print {
+    @page {
+        border: none;
+        size: letter portrait;
+        margin: 20px;
+    }
+
+    body {
+        font-size: 12px;
+    }
+
+    #resume {
+        margin: 0;
+    }
+
+    .largeFont {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,141 @@
+basics:
+  name: Witthawin (Ro) Sripheanpol
+  label: "Lead AI Engineer | AI Researcher | Master's Student"
+  email: "ro.witthawin@gmail.com"
+  phone: ""
+  profiles:
+    - network: LinkedIn
+      url: https://www.linkedin.com/in/ro-witthawin
+      # - network: Google Scholar
+      #   url: https://scholar.google.com/citations?user=JYvuqcEAAAAJ&hl
+work:
+  - name: Chulalongkorn University
+    position: AI Researcher
+    startDate: 2025-08-01
+    # highlights:
+    #   - Infra / DevOps / Data Engineering / MLOps / Architecture consulting
+  - name: EdVISORY
+    position: AI & Data Solution Specialist
+    startDate: 2025-01-01
+    endDate: 2025-06-30
+    # highlights:
+    #   - Upskill data science team to adopt software engineering practices
+  - name: Botnoi Group
+    position: Lead Senior AI Engineer
+    startDate: 2021-08-01
+    endDate: 2024-12-31
+    # highlights:
+    #   - Design, write and optimize most of the infrastructure, platform, pipelines (ci/cd + data / ML) and app workloads for 5 products
+speaking:
+  - title: Building Chatbots and Enhancing LINE LIFF
+    name: Cloudea
+    role: TA
+    date: 2025-02
+  - title: Road to Gen AI Engineer
+    name: DataTH
+    role: Speaker
+    date: 2025-02
+  - title: Thailand Developer Day
+    name: Thailand Community Leaders
+    session: Multimodal or Large Language Model, What model should I use?
+    role: Speaker
+    date: 2025-02
+education:
+  - institution: Chulalongkorn University
+    area: Computer Engineering
+    studyType: Master
+    startDate: "2025"
+    # endDate: "2021"
+  - institution: King Mongkut's University of Technology Thonburi
+    area: Mechatronics
+    studyType: Bachelor
+    startDate: "2016"
+    endDate: "2021"
+certificates:
+  - name: HashiCorp Ambassador 2025
+    date: "2025"
+    issuer: HashiCorp
+    url: https://www.credly.com/badges/acf5e145-700f-4955-afe2-f14a8d0341e1/public_url
+publications:
+  - name: Evaluating Perspectival Biases in Cross-Modal Retrieval
+    publisher: arXiv
+    releaseDate: 2025-10-30
+    website: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JYvuqcEAAAAJ&citation_for_view=JYvuqcEAAAAJ:u5HHmVD_uO8C
+  - name: Crown and Trunk Detection on Tree Drawing Test by using Deep Learning
+    publisher: JADES
+    releaseDate: 2023-08-29
+    website: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JYvuqcEAAAAJ&citation_for_view=JYvuqcEAAAAJ:u-x6o8ySG0sC
+volunteer:
+  - organization: DevOps, SRE & Infrastructure Discord
+    position: Frequent Contributor
+    startDate: "2021"
+  - organization: Data Engineer Thailand
+    position: Frequent Contributor
+    startDate: "2024"
+  - organization: Data Engineer Cafe
+    position: Frequent Contributor
+    startDate: "2022"
+  - organization: Data Engineering Discord
+    position: Moderator & Frequent Contributor
+    startDate: "2020"
+  - organization: Data Science Discord
+    position: Frequent Contributor
+    startDate: "2021"
+skills:
+  - name: Languages
+    keywords:
+      - Bash
+      - Go
+      - HCL
+      - Python
+      - Rust
+      #  - name: Cloud Native
+      #    keywords:
+      #      - Docker
+      #      - Kubernetes
+      #      - Helm
+      #      - K3S
+      #      - Harbor
+      #      - Grafana
+      #      - Prometheus
+      #      - Minio
+      #      - MLflow
+      #  - name: Databases
+      #    keywords:
+      #      - Postgres
+      #      - MongoDB
+      #      - BigQuery
+      #      - DuckDB
+      #  - name: DevOps
+      #    keywords:
+      #      - Caddy
+      #      - Terraform
+      #      - GitHub Actions
+      #      - Proxmox
+      #      - Authentik
+      #      - Infracost
+      #      - New Relic
+  - name: Cloud
+    keywords:
+      - AWS
+      - GCP
+      - Digital Ocean
+      - Cloudflare
+      - Vercel
+  - name: Ops
+    keywords:
+      - DevOps
+      - DataOps
+      - MLOps
+      - Platform Engineering
+      - DevX
+      - Kubernetes
+      - IaC
+      - Scaling & Optimization
+  - name: Data / ML
+    keywords:
+      - Data Engineering
+      - Machine Learning Engineering
+      - Spark
+      - NLP
+      - GIS
