@@ -27,18 +27,345 @@ work:
     # highlights:
     #   - Design, write and optimize most of the infrastructure, platform, pipelines (ci/cd + data / ML) and app workloads for 5 products
 speaking:
-  - title: Building Chatbots and Enhancing LINE LIFF
-    name: Cloudea
-    role: TA
+  - title: "Building Chatbots and Enhancing LINE LIFF"
+    name: "Cloudea"
+    session: ""
+    role: "TA"
     date: 2025-02
-  - title: Road to Gen AI Engineer
-    name: DataTH
-    role: Speaker
+  - title: "Road to Gen AI Engineer"
+    name: "DataTH"
+    session: "Intro to Gen AI Engineer"
+    role: "Organizer, Speaker"
     date: 2025-02
-  - title: Thailand Developer Day
-    name: Thailand Community Leaders
-    session: Multimodal or Large Language Model, What model should I use?
-    role: Speaker
+  - title: "Thailand Developer Day"
+    name: "Thailand Community Leaders"
+    session: "Multimodal or Large Language Model, What model should I use?"
+    role: "Speaker"
+    date: 2025-02
+  - title: "Road to Gen AI Engineer"
+    name: "DataTH"
+    session: "Building AI Application"
+    role: "Speaker"
+    date: 2025-02
+  - title: "Road to Gen AI Engineer"
+    name: "DataTH"
+    session: "Model Foundation"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Road to Gen AI Engineer"
+    name: "DataTH"
+    session: "AI Agents"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Machine Learning Application for Data Science"
+    name: "ม.บูรพา"
+    session: "Intro to Reinforcement Learning Day1"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Microsoft AI and Open Source Community Meetup"
+    name: "Microsoft"
+    session: "Activate your data and analytics for AI innovation with Microsoft Azure"
+    role: "Organizer, Speaker"
+    date: 2025-03
+  - title: "Machine Learning Application for Data Science"
+    name: "ม.บูรพา"
+    session: "Intro to Reinforcement Learning Day2"
+    role: "Speaker"
+    date: 2025-03
+  - title: "FOSSASIASummit2025 "
+    name: "Fossasia"
+    session: "Multimodal or Large Language Model, What model should I use?"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Road to Gen AI Engineer"
+    name: "DataTH"
+    session: "Multimodal AI"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Global AI Bootcamp Bangkok 2025"
+    name: "Global AI Community"
+    session: "Voice Assistance: How can we develop streaming generative AI?"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Road to Gen AI Engineer"
+    name: "DataTH"
+    session: "Generative AI Engineer Summary & Future Trend"
+    role: "Speaker"
+    date: 2025-03
+  - title: "Season of AI"
+    name: "Microsoft"
+    session: "How to manage multi-agent on Conversation Framework with AutoGen"
+    role: "Organizer, Speaker"
+    date: 2025-04
+  - title: "AI Startup Essential"
+    name: "Botnoi Group"
+    session: ""
+    role: "Speaker"
+    date: 2025-04
+  - title: "Journey to an AI Agent with LINE Chatbot and LLMs"
+    name: "Cloudea"
+    session: "Agentic AI with LangChain"
+    role: "Organizer, Speaker"
+    date: 2025-05
+  - title: "Microsoft Copilot Community Meetup"
+    name: "Microsoft"
+    session: "Microsoft Copilot and Copilot+ PCs: Your AI Companion"
+    role: "Organizer, Speaker"
+    date: 2025-05
+  - title: "Data Echooo"
+    name: "AIAT"
+    session: ""
+    role: "Speaker"
+    date: 2025-05
+  - title: "AI Startup Essential"
+    name: "Botnoi Group"
+    session: "AI from POC to Productivity"
+    role: "Speaker"
+    date: 2025-05
+  - title: "Build with AI"
+    name: "Google"
+    session: "Intro to Gemini 2.0 Flash"
+    role: "Speaker"
+    date: 2025-05
+  - title: "TECH FOR GOV 2025"
+    name: "Microsoft"
+    session: "Intro to Azure AI Foundry & Apply Generative AI Application"
+    role: "Speaker"
+    date: 2025-05
+  - title: "TECH FOR GOV 2025"
+    name: "Microsoft"
+    session: "AI Application: How to Apply AI to Business Units"
+    role: "Speaker"
+    date: 2025-05
+  - title: "LINE API for Developer x Generative AI รุ่น 5"
+    name: "Cloudea"
+    session: ""
+    role: "TA"
+    date: 2025-05
+  - title: "Game Changer"
+    name: "Gang Connector"
+    session: ""
+    role: "Organizer"
+    date: 2025-06
+  - title: "Microsoft Build 2025 – After Party Thailand"
+    name: "Microsoft"
+    session: "Accelerating Scientific Discovery with HPC, AI, and Quantum Computing"
+    role: "Organizer, Speaker"
+    date: 2025-06
+  - title: "LDSW"
+    name: "DSC"
+    session: ""
+    role: "Organizer, TA"
+    date: 2025-06
+  - title: "AI Skills for Developers"
+    name: "Microsoft"
+    session: "Activate your data and analytics for AI innovation with Microsoft Azure"
+    role: "Organizer, Speaker"
+    date: 2025-06
+  - title: "BarCamp Khon Kaen 2025"
+    name: "Barcamp Khonkaen"
+    session: "LLM understand or memorize?"
+    role: "Speaker"
+    date: 2025-07
+  - title: "AI Agent Jetpack 2025"
+    name: "Data เบ็ดเตล็ด"
+    session: ""
+    role: "Organizer, TA"
+    date: 2025-07
+  - title: "Cloud Next Extended Bangkok 2025"
+    name: "Google"
+    session: "Evolution of Gemma 3n for Deploying Local Models on Every Device"
+    role: "Speaker"
+    date: 2025-07
+  - title: "Live-Kub-Aan EP.2"
+    name: "TeaPod. Channel"
+    session: "LLM Understand Us or Just Remember"
+    role: "Speaker"
+    date: 2025-07
+  - title: "Talk-Kub-Aan"
+    name: "TeaPod. Channel"
+    session: "Are We Tired of The Word \"AI\"?"
+    role: "Speaker"
+    date: 2025-07
+  - title: "Live-Kub-Aan EP.3"
+    name: "TeaPod. Channel"
+    session: "Build a Travel Agent using MCP Toolbox for Databases and Agent Development Kit (ADK)"
+    role: "Organizer"
+    date: 2025-07
+  - title: ""
+    name: "Trainocate"
+    session: "Python for DataScience & AI"
+    role: "TA"
+    date: 2025-08
+  - title: ""
+    name: "ThinkingMachines"
+    session: "Computer Vision Lab "
+    role: "TA"
+    date: 2025-08
+  - title: "Training AI for Graphic Design"
+    name: "Future Skill"
+    session: "Generative AI for Creative Design"
+    role: "Speaker"
+    date: 2025-08
+  - title: "Training AI for Graphic Design"
+    name: "Future Skill"
+    session: "Generative AI for Creative Design"
+    role: "Speaker"
+    date: 2025-09
+  - title: "Say hello to GPT-5 in Copilots "
+    name: "Microsoft"
+    session: "Inside GPT-5: What You Need to Know"
+    role: "Organizer, Speaker"
+    date: 2025-09
+  - title: "SCI-TECH INNOVATOR DEVELOPER STUDENT CAMP "
+    name: "DSC"
+    session: ""
+    role: "Organizer, TA"
+    date: 2025-09
+  - title: "GEN AI Security Training"
+    name: "Trainocate"
+    session: "GEN AI Security Workshop"
+    role: "Speaker"
+    date: 2025-09
+  - title: "Building AI Agent with Custom MCP Tools"
+    name: "Cloudea"
+    session: "Building AI Agent with Custom MCP Tools"
+    role: "Organizer, Speaker"
+    date: 2025-09
+  - title: "GEN AI Security Training"
+    name: "Trainocate"
+    session: "GEN AI Security Workshop"
+    role: "Speaker"
+    date: 2025-09
+  - title: "PyCon Thailand 2025"
+    name: "PyCon Thailand"
+    session: "Best Practices for Building Graph-based RAG from Multiple Documents with Python"
+    role: "Speaker"
+    date: 2025-10
+  - title: "Building AI Agent with Custom MCP Tools"
+    name: "ChulaAI"
+    session: "Agent x MCP"
+    role: "Speaker"
+    date: 2025-10
+  - title: "Data & AI Day 2025"
+    name: "Gang Connector"
+    session: "Building AI Agent with Custom MCP Tools"
+    role: "Organizer, Speaker"
+    date: 2025-10
+  - title: "GDG Chulalongkorn University "
+    name: "GDGoC"
+    session: "Local Multimodal-LLM Development with Gemma3n"
+    role: "Speaker"
+    date: 2025-10
+  - title: ""
+    name: "Mahidol"
+    session: ""
+    role: "Speaker"
+    date: 2025-10
+  - title: "DevFest Cloud Bangkok 2025"
+    name: "GDG"
+    session: "From Code to Deployment: Build MCP Tools for Gemini and ADK"
+    role: "Speaker"
+    date: 2025-11
+  - title: "StackZero Meetup"
+    name: "Novituz"
+    session: "Building Graph-based RAG from Documents with Python"
+    role: "Organizer, Speaker"
+    date: 2025-11
+  - title: "Maker to Maker #3 AI Hallucinations "
+    name: "ตื่นมาโค้ด Python"
+    session: "AI Hullcination"
+    role: "Speaker"
+    date: 2025-11
+  - title: "Thailand MUG: After MongoDB.local NYC event"
+    name: "MongoDB"
+    session: "MongoDB MCP Server"
+    role: "Organizer, Speaker"
+    date: 2025-11
+  - title: "DevFest Bangkok 2025"
+    name: "Google Developer Group Bangkok"
+    session: "Building AI Agent with Custom MCP Tools"
+    role: "TA"
+    date: 2025-11
+  - title: "AI Community Day Bangkok"
+    name: "Global AI Bangkok"
+    session: "Video Session Summarization with ASR-based & Visual Highlight"
+    role: "Organizer, Speaker"
+    date: 2025-11
+  - title: "Tech Live for Flood Relief "
+    name: "หมีเรื่องมาเล่า "
+    session: "Don’t Trust AI without Verify"
+    role: "Speaker"
+    date: 2025-11
+  - title: "Microsoft Ignite – After Party Thailand"
+    name: "Microsoft"
+    session: "Build & Manage AI Apps with Your Agent Factory"
+    role: "Speaker"
+    date: 2025-12
+  - title: "Computational Legal Thinking & Agentic AI"
+    name: "Chulalongkorn University"
+    session: "Foundations of Agency"
+    role: "TA, Instructor"
+    date: 2025-01
+  - title: ""
+    name: "Google Developer Group on Campus"
+    session: "Essential Docker 101"
+    role: "Organizer, TA"
+    date: 2025-01
+  - title: "Computational Legal Thinking & Agentic AI"
+    name: "Chulalongkorn University"
+    session: "Agentic Workflows & Architecture "
+    role: "Instructor"
+    date: 2025-01
+  - title: "Computational Legal Thinking & Agentic AI"
+    name: "Chulalongkorn University"
+    session: "Evaluation & AI Economics"
+    role: "TA, Instructor"
+    date: 2025-01
+  - title: ""
+    name: "Data TH"
+    session: "AI TRENDS: Agentic AI & RAG"
+    role: "Speaker"
+    date: 2025-01
+  - title: "National Coding Day : 2026"
+    name: "Thai Programmer"
+    session: "Should We Adapt AI on Project or Stick to Traditional Methods?"
+    role: "Speaker"
+    date: 2025-01
+  - title: "National Coding Day : 2026"
+    name: "Thai Programmer"
+    session: "Panel (AI + Fundamental)"
+    role: "Speaker"
+    date: 2025-01
+  - title: "Google Gemini Arena"
+    name: "Chulalongkorn University & Google"
+    session: "Learn Better with NotebookLM"
+    role: "Instructor"
+    date: 2025-01
+  - title: "GenAI Weekend"
+    name: "Data TH"
+    session: "Build AI Agent (From Chat to Action)"
+    role: "Instructor"
+    date: 2025-01
+  - title: "GenAI Weekend"
+    name: "Data TH"
+    session: "GraphRAG System (Smart Brain)"
+    role: "Instructor"
+    date: 2025-02
+  - title: "GDG Bangkok: Get Ready & Connect"
+    name: "Google Developer Group"
+    session: "Panel Discussion: How local infrastructure benefits on local tech industry."
+    role: "Speaker"
+    date: 2025-02
+  - title: "Paccon2026"
+    name: "King Naresuan Exhibition and convention center"
+    session: "Simulating complex chemical ecosystems for multi-scale research"
+    role: "Speaker"
+    date: 2025-02
+  - title: "AgentCon Bangkok"
+    name: "Global AI Bangkok"
+    session: "From Agentic to Physical AI"
+    role: "Organizer, Speaker"
     date: 2025-02
 education:
   - institution: Chulalongkorn University
