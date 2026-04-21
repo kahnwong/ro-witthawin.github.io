@@ -26,7 +26,12 @@ work:
     endDate: 2024-12-31
     # highlights:
     #   - Design, write and optimize most of the infrastructure, platform, pipelines (ci/cd + data / ML) and app workloads for 5 products
-speaking:
+speaking: 
+  - title: "SOTA vs Frontier Models: When agent is not your answer"
+    name: "Microsoft"
+    session: ""
+    role: "Speaker"
+    date: 2026-04
   - title: "Building Chatbots and Enhancing LINE LIFF"
     name: "Cloudea"
     session: ""
