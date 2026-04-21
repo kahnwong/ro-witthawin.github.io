@@ -15,15 +15,10 @@ repos:
       - id: fix-byte-order-marker
       - id: mixed-line-ending
   - repo: https://github.com/kahnwong/pre-commit
-    rev: "7411bcb"
+    rev: "98ee5b1"
     hooks:
-      - id: go-build
-      - id: go-fmt
-      - id: go-imports
-      - id: go-mod-tidy
-      - id: go-unit-tests
-      - id: go-vet
-      - id: golangci-lint
+      - id: ruff-check
+      - id: ruff-format
       - id: yamlfmt
       - id: shellcheck
       - id: shfmt
