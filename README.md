@@ -2,7 +2,11 @@
 
 ## Notes
 
-- Modified theme is from <https://github.com/PhillipChaffee/jsonresume-theme-one>
+- Theme is based on <https://github.com/PhillipChaffee/jsonresume-theme-one>
+
+## Pre-reqs
+
+Convert data to `resume.yaml` by downloading google sheet as `tsv`, then run `uv run sheets_to_yaml.py`.
 
 ## Usage
 
