@@ -27,11 +27,6 @@ work:
     # highlights:
     #   - Design, write and optimize most of the infrastructure, platform, pipelines (ci/cd + data / ML) and app workloads for 5 products
 speaking: 
-  - title: "SOTA vs Frontier Models: When agent is not your answer"
-    name: "Microsoft"
-    session: ""
-    role: "Speaker"
-    date: 2026-04
   - title: "Building Chatbots and Enhancing LINE LIFF"
     name: "Cloudea"
     session: ""
@@ -372,6 +367,32 @@ speaking:
     session: "From Agentic to Physical AI"
     role: "Organizer, Speaker"
     date: 2025-02
+  - title: "Fossasia Summit 2026"
+    name: "Fossasia"
+    session: "Pannel: Converting notebooks to production code, what can go wrong?"
+    role: "Speaker"
+    date: 2026-03
+  - title: "Thai Data&AI Meetup#2"
+    name: "Data TH"
+    session: "AI not-as a Service"
+    role: "Speaker"
+    date: 2026-04
+  - title: "Global Azure 2026"
+    name: "Microsoft"
+    session: "SOTA vs Frontier Models: When agent is not your answer"
+    role: "Speaker"
+    date: 2026-04
+  - title: "Nextgen Mental Health with AMSA x GDGoC"
+    name: "AMSA x GDGoC"
+    session: "Intro to Foundation of AI in Modern Healthcare"
+    role: "Speaker"
+    date: 2026-05
+  - title: "AgentCamp: Global AI Bootcamp 2026"
+    name: Global AI Community
+    session: "*If you need Local* what you should know to fit your budget"
+    role: "Speaker"
+    date: 2026-05
+  
 education:
   - institution: Chulalongkorn University
     area: Computer Engineering
@@ -401,26 +422,14 @@ volunteer:
   - organization: DevOps, SRE & Infrastructure Discord
     position: Frequent Contributor
     startDate: "2021"
-  - organization: Data Engineer Thailand
-    position: Frequent Contributor
-    startDate: "2024"
-  - organization: Data Engineer Cafe
-    position: Frequent Contributor
-    startDate: "2022"
-  - organization: Data Engineering Discord
-    position: Moderator & Frequent Contributor
-    startDate: "2020"
-  - organization: Data Science Discord
-    position: Frequent Contributor
-    startDate: "2021"
 skills:
   - name: Languages
     keywords:
       - Bash
       - Go
-      - HCL
       - Python
       - Rust
+      - C++
       #  - name: Cloud Native
       #    keywords:
       #      - Docker
@@ -451,23 +460,30 @@ skills:
     keywords:
       - AWS
       - GCP
-      - Digital Ocean
-      - Cloudflare
-      - Vercel
-  - name: Ops
-    keywords:
-      - DevOps
-      - DataOps
-      - MLOps
-      - Platform Engineering
-      - DevX
-      - Kubernetes
-      - IaC
-      - Scaling & Optimization
+      - Azure
+      - Nvidia
+      - NT
+  # - name: Ops
+  #   keywords:
+  #     - DevOps
+  #     - DataOps
+  #     - MLOps
+  #     - Platform Engineering
+  #     - DevX
+  #     - Kubernetes
+  #     - IaC
+  #     - Scaling & Optimization
   - name: Data / ML
     keywords:
-      - Data Engineering
+      - Data Science
       - Machine Learning Engineering
       - Spark
       - NLP
-      - GIS
+      - Computer Vision
+      - Deep Learning
+      - RAG
+      - LLM
+      - GenAI
+      - Agentic AI
+      - Reinforcement Learning
+      - Simulation
