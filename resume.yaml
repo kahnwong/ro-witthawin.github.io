@@ -6,8 +6,8 @@ basics:
   profiles:
     - network: LinkedIn
       url: https://www.linkedin.com/in/ro-witthawin
-      # - network: Google Scholar
-      #   url: https://scholar.google.com/citations?user=JYvuqcEAAAAJ&hl
+    - network: Google Scholar
+      url: https://scholar.google.com/citations?user=JYvuqcEAAAAJ&hl
 work:
   - name: Chulalongkorn University
     position: AI Researcher
@@ -26,6 +26,83 @@ work:
     endDate: 2024-12-31
     # highlights:
     #   - Design, write and optimize most of the infrastructure, platform, pipelines (ci/cd + data / ML) and app workloads for 5 products
+
+education:
+  - institution: Chulalongkorn University
+    area: Computer Engineering
+    studyType: Master
+    startDate: "2025"
+  - institution: King Mongkut's University of Technology Thonburi
+    area: Robotics & Automation Engineering
+    studyType: Bachelor
+    startDate: "2016"
+    endDate: "2021"
+# certificates:
+#   - name: HashiCorp Ambassador 2025
+#     date: "2025"
+#     issuer: HashiCorp
+#     url: https://www.credly.com/badges/acf5e145-700f-4955-afe2-f14a8d0341e1/public_url
+publications:
+  - name: Evaluating Perspectival Biases in Cross-Modal Retrieval
+    publisher: arXiv
+    releaseDate: 2025-10-30
+    website: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JYvuqcEAAAAJ&citation_for_view=JYvuqcEAAAAJ:u5HHmVD_uO8C
+  - name: Crown and Trunk Detection on Tree Drawing Test by using Deep Learning
+    publisher: JADES
+    releaseDate: 2023-08-29
+    website: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JYvuqcEAAAAJ&citation_for_view=JYvuqcEAAAAJ:u-x6o8ySG0sC
+  - name: Wing Designs for a small flying robot in hovering
+    publisher: NKRAFA
+    releaseDate: 2018-12-04
+    website: https://ph02.tci-thaijo.org/index.php/nkrafa-sct/article/view/159338
+
+volunteer:
+  - organization: Google Developer Group Bangkok
+    position: Organizer
+    startDate: "2026"
+  - organization: Super AI Engineer Thailand
+    position: Committee
+    startDate: "2026"
+  - organization: Google Developer Group on Campus Chulalongkorn University
+    position: Committee
+    startDate: "2025"
+  - organization: MongoDB Thailand User Group
+    position: THMUG Leader
+    startDate: "2025"
+  - organization: OpenThaiGPT
+    position: Head Finetuning InstructGPT & RLHF
+    startDate: "2023"
+
+skills:
+  - name: Languages
+    keywords:
+      - Bash
+      - Go
+      - Python
+      - Rust
+      - C++
+  - name: Cloud
+    keywords:
+      - AWS
+      - GCP
+      - Azure
+      - Nvidia
+      - NT
+  - name: Data / AI
+    keywords:
+      - Data Science
+      - Machine Learning Engineering
+      - Spark
+      - NLP
+      - Computer Vision
+      - Deep Learning
+      - RAG
+      - LLM
+      - GenAI
+      - Agentic AI
+      - Reinforcement Learning
+      - Simulation
+
 speaking: 
   - title: "Building Chatbots and Enhancing LINE LIFF"
     name: "Cloudea"
@@ -306,67 +383,67 @@ speaking:
     name: "Chulalongkorn University"
     session: "Foundations of Agency"
     role: "TA, Instructor"
-    date: 2025-01
+    date: 2026-01
   - title: ""
     name: "Google Developer Group on Campus"
     session: "Essential Docker 101"
     role: "Organizer, TA"
-    date: 2025-01
+    date: 2026-01
   - title: "Computational Legal Thinking & Agentic AI"
     name: "Chulalongkorn University"
     session: "Agentic Workflows & Architecture "
     role: "Instructor"
-    date: 2025-01
+    date: 2026-01
   - title: "Computational Legal Thinking & Agentic AI"
     name: "Chulalongkorn University"
     session: "Evaluation & AI Economics"
     role: "TA, Instructor"
-    date: 2025-01
+    date: 2026-01
   - title: ""
     name: "Data TH"
     session: "AI TRENDS: Agentic AI & RAG"
     role: "Speaker"
-    date: 2025-01
+    date: 2026-01
   - title: "National Coding Day : 2026"
     name: "Thai Programmer"
     session: "Should We Adapt AI on Project or Stick to Traditional Methods?"
     role: "Speaker"
-    date: 2025-01
+    date: 2026-01
   - title: "National Coding Day : 2026"
     name: "Thai Programmer"
     session: "Panel (AI + Fundamental)"
     role: "Speaker"
-    date: 2025-01
+    date: 2026-01
   - title: "Google Gemini Arena"
     name: "Chulalongkorn University & Google"
     session: "Learn Better with NotebookLM"
     role: "Instructor"
-    date: 2025-01
+    date: 2026-01
   - title: "GenAI Weekend"
     name: "Data TH"
     session: "Build AI Agent (From Chat to Action)"
     role: "Instructor"
-    date: 2025-01
+    date: 2026-01
   - title: "GenAI Weekend"
     name: "Data TH"
     session: "GraphRAG System (Smart Brain)"
     role: "Instructor"
-    date: 2025-02
+    date: 2026-02
   - title: "GDG Bangkok: Get Ready & Connect"
     name: "Google Developer Group"
     session: "Panel Discussion: How local infrastructure benefits on local tech industry."
     role: "Speaker"
-    date: 2025-02
+    date: 2026-02
   - title: "Paccon2026"
     name: "King Naresuan Exhibition and convention center"
     session: "Simulating complex chemical ecosystems for multi-scale research"
     role: "Speaker"
-    date: 2025-02
+    date: 2026-02
   - title: "AgentCon Bangkok"
     name: "Global AI Bangkok"
     session: "From Agentic to Physical AI"
     role: "Organizer, Speaker"
-    date: 2025-02
+    date: 2026-02
   - title: "Fossasia Summit 2026"
     name: "Fossasia"
     session: "Pannel: Converting notebooks to production code, what can go wrong?"
@@ -392,98 +469,3 @@ speaking:
     session: "*If you need Local* what you should know to fit your budget"
     role: "Speaker"
     date: 2026-05
-  
-education:
-  - institution: Chulalongkorn University
-    area: Computer Engineering
-    studyType: Master
-    startDate: "2025"
-    # endDate: "2021"
-  - institution: King Mongkut's University of Technology Thonburi
-    area: Mechatronics
-    studyType: Bachelor
-    startDate: "2016"
-    endDate: "2021"
-certificates:
-  - name: HashiCorp Ambassador 2025
-    date: "2025"
-    issuer: HashiCorp
-    url: https://www.credly.com/badges/acf5e145-700f-4955-afe2-f14a8d0341e1/public_url
-publications:
-  - name: Evaluating Perspectival Biases in Cross-Modal Retrieval
-    publisher: arXiv
-    releaseDate: 2025-10-30
-    website: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JYvuqcEAAAAJ&citation_for_view=JYvuqcEAAAAJ:u5HHmVD_uO8C
-  - name: Crown and Trunk Detection on Tree Drawing Test by using Deep Learning
-    publisher: JADES
-    releaseDate: 2023-08-29
-    website: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=JYvuqcEAAAAJ&citation_for_view=JYvuqcEAAAAJ:u-x6o8ySG0sC
-volunteer:
-  - organization: DevOps, SRE & Infrastructure Discord
-    position: Frequent Contributor
-    startDate: "2021"
-skills:
-  - name: Languages
-    keywords:
-      - Bash
-      - Go
-      - Python
-      - Rust
-      - C++
-      #  - name: Cloud Native
-      #    keywords:
-      #      - Docker
-      #      - Kubernetes
-      #      - Helm
-      #      - K3S
-      #      - Harbor
-      #      - Grafana
-      #      - Prometheus
-      #      - Minio
-      #      - MLflow
-      #  - name: Databases
-      #    keywords:
-      #      - Postgres
-      #      - MongoDB
-      #      - BigQuery
-      #      - DuckDB
-      #  - name: DevOps
-      #    keywords:
-      #      - Caddy
-      #      - Terraform
-      #      - GitHub Actions
-      #      - Proxmox
-      #      - Authentik
-      #      - Infracost
-      #      - New Relic
-  - name: Cloud
-    keywords:
-      - AWS
-      - GCP
-      - Azure
-      - Nvidia
-      - NT
-  # - name: Ops
-  #   keywords:
-  #     - DevOps
-  #     - DataOps
-  #     - MLOps
-  #     - Platform Engineering
-  #     - DevX
-  #     - Kubernetes
-  #     - IaC
-  #     - Scaling & Optimization
-  - name: Data / ML
-    keywords:
-      - Data Science
-      - Machine Learning Engineering
-      - Spark
-      - NLP
-      - Computer Vision
-      - Deep Learning
-      - RAG
-      - LLM
-      - GenAI
-      - Agentic AI
-      - Reinforcement Learning
-      - Simulation
