@@ -1,8 +1,8 @@
 basics:
   name: Witthawin (Ro) Sripheanpol
   label: "Lead AI Engineer | AI Researcher | Master's Student"
-  email: "ro.witthawin@gmail.com"
-  phone: ""
+  # email: "ro.witthawin@gmail.com"
+  # phone: ""
   profiles:
     - network: LinkedIn
       url: https://www.linkedin.com/in/ro-witthawin
@@ -72,6 +72,7 @@ volunteer:
   - organization: OpenThaiGPT
     position: Head Finetuning InstructGPT & RLHF
     startDate: "2023"
+    endDate: "2025"
 
 skills:
   - name: Languages
@@ -104,11 +105,6 @@ skills:
       - Simulation
 
 speaking: 
-  - title: "Building Chatbots and Enhancing LINE LIFF"
-    name: "Cloudea"
-    session: ""
-    role: "TA"
-    date: 2025-02
   - title: "Road to Gen AI Engineer"
     name: "DataTH"
     session: "Intro to Gen AI Engineer"
@@ -140,7 +136,7 @@ speaking:
     role: "Speaker"
     date: 2025-03
   - title: "Microsoft AI and Open Source Community Meetup"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Activate your data and analytics for AI innovation with Microsoft Azure"
     role: "Organizer, Speaker"
     date: 2025-03
@@ -185,7 +181,7 @@ speaking:
     role: "Organizer, Speaker"
     date: 2025-05
   - title: "Microsoft Copilot Community Meetup"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Microsoft Copilot and Copilot+ PCs: Your AI Companion"
     role: "Organizer, Speaker"
     date: 2025-05
@@ -200,19 +196,19 @@ speaking:
     role: "Speaker"
     date: 2025-05
   - title: "Build with AI"
-    name: "Google"
+    name: "Google Developer Group Cloud Bangkok"
     session: "Intro to Gemini 2.0 Flash"
     role: "Speaker"
     date: 2025-05
   - title: "TECH FOR GOV 2025"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Intro to Azure AI Foundry & Apply Generative AI Application"
-    role: "Speaker"
+    role: "Instructor"
     date: 2025-05
   - title: "TECH FOR GOV 2025"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "AI Application: How to Apply AI to Business Units"
-    role: "Speaker"
+    role: "Instructor"
     date: 2025-05
   - title: "LINE API for Developer x Generative AI รุ่น 5"
     name: "Cloudea"
@@ -235,7 +231,7 @@ speaking:
     role: "Organizer, TA"
     date: 2025-06
   - title: "AI Skills for Developers"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Activate your data and analytics for AI innovation with Microsoft Azure"
     role: "Organizer, Speaker"
     date: 2025-06
@@ -250,7 +246,7 @@ speaking:
     role: "Organizer, TA"
     date: 2025-07
   - title: "Cloud Next Extended Bangkok 2025"
-    name: "Google"
+    name: "Google Developer Group Cloud Bangkok"
     session: "Evolution of Gemma 3n for Deploying Local Models on Every Device"
     role: "Speaker"
     date: 2025-07
@@ -269,16 +265,6 @@ speaking:
     session: "Build a Travel Agent using MCP Toolbox for Databases and Agent Development Kit (ADK)"
     role: "Organizer"
     date: 2025-07
-  - title: ""
-    name: "Trainocate"
-    session: "Python for DataScience & AI"
-    role: "TA"
-    date: 2025-08
-  - title: ""
-    name: "ThinkingMachines"
-    session: "Computer Vision Lab "
-    role: "TA"
-    date: 2025-08
   - title: "Training AI for Graphic Design"
     name: "Future Skill"
     session: "Generative AI for Creative Design"
@@ -290,7 +276,7 @@ speaking:
     role: "Speaker"
     date: 2025-09
   - title: "Say hello to GPT-5 in Copilots "
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Inside GPT-5: What You Need to Know"
     role: "Organizer, Speaker"
     date: 2025-09
@@ -334,11 +320,6 @@ speaking:
     session: "Local Multimodal-LLM Development with Gemma3n"
     role: "Speaker"
     date: 2025-10
-  - title: ""
-    name: "Mahidol"
-    session: ""
-    role: "Speaker"
-    date: 2025-10
   - title: "DevFest Cloud Bangkok 2025"
     name: "GDG"
     session: "From Code to Deployment: Build MCP Tools for Gemini and ADK"
@@ -375,7 +356,7 @@ speaking:
     role: "Speaker"
     date: 2025-11
   - title: "Microsoft Ignite – After Party Thailand"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Build & Manage AI Apps with Your Agent Factory"
     role: "Speaker"
     date: 2025-12
@@ -384,7 +365,7 @@ speaking:
     session: "Foundations of Agency"
     role: "TA, Instructor"
     date: 2026-01
-  - title: ""
+  - title: "Essential Docker 101"
     name: "Google Developer Group on Campus"
     session: "Essential Docker 101"
     role: "Organizer, TA"
@@ -399,7 +380,7 @@ speaking:
     session: "Evaluation & AI Economics"
     role: "TA, Instructor"
     date: 2026-01
-  - title: ""
+  - title: "Update on AI Trends in 2026"
     name: "Data TH"
     session: "AI TRENDS: Agentic AI & RAG"
     role: "Speaker"
@@ -455,7 +436,7 @@ speaking:
     role: "Speaker"
     date: 2026-04
   - title: "Global Azure 2026"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "SOTA vs Frontier Models: When agent is not your answer"
     role: "Speaker"
     date: 2026-04
