@@ -15,6 +15,26 @@ const validateArray = (arr) => {
     return arr !== undefined && arr !== null && arr instanceof Array && arr.length > 0;
 }
 
+const dateSortValue = (date) => {
+    if (!date) {
+        return -Infinity;
+    }
+
+    if (date instanceof Date) {
+        return date.getTime();
+    }
+
+    const value = String(date).trim();
+    const parts = value.match(/^(\d{4})(?:-(\d{1,2}))?(?:-(\d{1,2}))?/);
+
+    if (parts) {
+        return Date.UTC(Number(parts[1]), Number(parts[2] || 1) - 1, Number(parts[3] || 1));
+    }
+
+    const timestamp = Date.parse(value);
+    return Number.isNaN(timestamp) ? -Infinity : timestamp;
+}
+
 const render = (resume) => {
     // Split courses into 3 columns
     if (validateArray(resume.education)) {
@@ -47,6 +67,10 @@ const render = (resume) => {
             });
         }
     });
+
+    if (validateArray(resume.speaking)) {
+        resume.speaking.sort((a, b) => dateSortValue(b.date) - dateSortValue(a.date));
+    }
 
     const css = fs.readFileSync(`${__dirname  }/style.css`, "utf-8");
     const tpl = fs.readFileSync(`${__dirname  }/resume.hbs`, "utf-8");

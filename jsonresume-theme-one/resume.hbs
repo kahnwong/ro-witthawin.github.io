@@ -109,41 +109,7 @@
         </div>
         <div class="sectionLine"></div>
     {{/if}}
-
-    {{#if resume.speaking.length}}
-        <div id="speakingBlock" class="sectionBlock">
-            <div class="sectionName">
-                <span>SPEAKING</span>
-            </div>
-            <div class="sectionContent">
-                {{#each resume.speaking}}
-                    <div class="jobBlock">
-                        {{#unless @first}}
-                            <div class="sectionLine"></div>
-                        {{/unless}}
-                        <div class="blockHeader">
-                            <span class="title">
-                                {{title}}
-                            </span>
-                            <span class="role">({{role}})</span>
-                            <span class="name">
-                                 - {{name}}
-                            </span>
-                            <span class="date">{{date}}</span>
-                            {{#if session}}
-                                <span class="session">
-                                <br>
-                                <span style="margin-left:20px">{{session}}</span>
-                            </span>
-                            {{/if}}
-                        </div>
-                    </div>
-                {{/each}}
-            </div>
-        </div>
-        <div class="sectionLine"></div>
-    {{/if}}
-
+ 
     {{#if resume.projects.length}}
         <div id="projectBlock" class="sectionBlock">
             <div class="sectionName">
@@ -439,6 +405,40 @@
             </div>
             <div class="sectionLine"></div>
         </div>
+    {{/if}}
+
+    {{#if resume.speaking.length}}
+        <div id="speakingBlock" class="sectionBlock">
+            <div class="sectionName">
+                <span>SPEAKING</span>
+            </div>
+            <div class="sectionContent">
+                {{#each resume.speaking}}
+                    <div class="jobBlock">
+                        {{#unless @first}}
+                            <div class="sectionLine"></div>
+                        {{/unless}}
+                        <div class="blockHeader">
+                            <span class="title">
+                                {{title}}
+                            </span>
+                            <span class="role">({{role}})</span>
+                            <span class="name">
+                                 - {{name}}
+                            </span>
+                            <span class="date">{{date}}</span>
+                            {{#if session}}
+                                <span class="session">
+                                <br>
+                                <span style="margin-left:20px">{{session}}</span>
+                            </span>
+                            {{/if}}
+                        </div>
+                    </div>
+                {{/each}}
+            </div>
+        </div>
+        <div class="sectionLine"></div>
     {{/if}}
 
 </div>
