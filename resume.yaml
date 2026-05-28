@@ -131,7 +131,7 @@ speaking:
     role: "Speaker"
     date: 2025-03
   - title: "Machine Learning Application for Data Science"
-    name: "ม.บูรพา"
+    name: "Burapha University"
     session: "Intro to Reinforcement Learning Day1"
     role: "Speaker"
     date: 2025-03
@@ -141,7 +141,7 @@ speaking:
     role: "Organizer, Speaker"
     date: 2025-03
   - title: "Machine Learning Application for Data Science"
-    name: "ม.บูรพา"
+    name: "Burapha University"
     session: "Intro to Reinforcement Learning Day2"
     role: "Speaker"
     date: 2025-03
@@ -166,13 +166,13 @@ speaking:
     role: "Speaker"
     date: 2025-03
   - title: "Season of AI"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "How to manage multi-agent on Conversation Framework with AutoGen"
     role: "Organizer, Speaker"
     date: 2025-04
   - title: "AI Startup Essential"
     name: "Botnoi Group"
-    session: ""
+    session: "From POC to Productivity: How to build AI on production"
     role: "Speaker"
     date: 2025-04
   - title: "Journey to an AI Agent with LINE Chatbot and LLMs"
@@ -221,7 +221,7 @@ speaking:
     role: "Organizer"
     date: 2025-06
   - title: "Microsoft Build 2025 – After Party Thailand"
-    name: "Microsoft"
+    name: "Microsoft Thailand"
     session: "Accelerating Scientific Discovery with HPC, AI, and Quantum Computing"
     role: "Organizer, Speaker"
     date: 2025-06
@@ -306,7 +306,7 @@ speaking:
     role: "Speaker"
     date: 2025-10
   - title: "Building AI Agent with Custom MCP Tools"
-    name: "ChulaAI"
+    name: "Chula AI"
     session: "Agent x MCP"
     role: "Speaker"
     date: 2025-10
@@ -315,13 +315,13 @@ speaking:
     session: "Building AI Agent with Custom MCP Tools"
     role: "Organizer, Speaker"
     date: 2025-10
-  - title: "GDG Chulalongkorn University "
-    name: "GDGoC"
+  - title: "Local Multimodal-LLM Development with Gemma3n"
+    name: "Google Developer Group on Campus Chulalongkorn University"
     session: "Local Multimodal-LLM Development with Gemma3n"
     role: "Speaker"
     date: 2025-10
   - title: "DevFest Cloud Bangkok 2025"
-    name: "GDG"
+    name: "Google Developer Group Cloud Bangkok"
     session: "From Code to Deployment: Build MCP Tools for Gemini and ADK"
     role: "Speaker"
     date: 2025-11
@@ -446,7 +446,17 @@ speaking:
     role: "Speaker"
     date: 2026-05
   - title: "AgentCamp: Global AI Bootcamp 2026"
-    name: Global AI Community
+    name: "Global AI Community"
     session: "*If you need Local* what you should know to fit your budget"
     role: "Speaker"
+    date: 2026-05 
+  - title: "AI Agent Workshop for Digital Government"
+    name: "Chula AI"
+    session: "AI Assistant with Antigravity Workshop"
+    role: "Instructor"
     date: 2026-05
+  - title: "Training Project on Technology and Artificial Intelligence to Develop Innovations for Persons with Disabilities in 5 Categories"
+    name: "Mahidol University x NBTC"
+    session: "Intro to Foundation of AI in Modern Healthcare"
+    role: "Instructor"
+    date: 2026-06
